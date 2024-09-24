@@ -18,49 +18,8 @@ Projet de développement d'application web
     - [Pousser les modifications](#pousser-les-modifications)
     - [Pull Request](#pull-request)
     - [Plus](#plus)
-  - [Bonne pratique en HTML](#bonne-pratique-en-html)
-    - [Indentation](#indentation)
-    - [Utilisation de guillemets double pas simple](#utilisation-de-guillemets-double-pas-simple)
-    - [ID et classe](#id-et-classe)
-    - [Nommage en HTML](#nommage-en-html)
-    - [Nommage en JavaScript](#nommage-en-javascript)
-  - [Bonne pratique en CSS](#bonne-pratique-en-css)
-    - [Variables](#variables)
-    - [Sélecteurs](#sélecteurs)
-    - [Ordre d'importance](#ordre-dimportance)
-    - [Pseudo-classes](#pseudo-classes)
-    - [Unités](#unités)
-      - [Unités de longueur](#unités-de-longueur)
-      - [Unités de texte](#unités-de-texte)
-      - [Unités temporelles](#unités-temporelles)
-  - [Bonne pratique en JS](#bonne-pratique-en-js)
-    - [Types et variables](#types-et-variables)
-    - [Tableau](#tableau)
-      - [Création d'un tableau](#création-dun-tableau)
-      - [Accès aux éléments](#accès-aux-éléments)
-      - [Ajout et supression d'éléments](#ajout-et-supression-déléments)
-      - [Méthodes sur tableau](#méthodes-sur-tableau)
-    - [Objets](#objets)
-    - [Boucles](#boucles)
-      - [for](#for)
-      - [while](#while)
-      - [do ... while](#do--while)
-      - [for ... in](#for--in)
-      - [for ... of](#for--of)
-      - [forEach](#foreach)
-    - [Comparaison en JS](#comparaison-en-js)
-      - [Égalité](#égalité)
-      - [Égalité stricte](#égalité-stricte)
-    - [ES6+](#es6)
-    - [Débogage](#débogage)
-    - [Module](#module)
-  - [Workspace](#workspace)
-    - [Arborescence du Projet](#arborescence-du-projet)
-    - [Extensions pratique](#extensions-pratique)
-    - [Fichier HTML](#fichier-html)
-    - [Fichier CSS](#fichier-css)
-    - [Fichier JS](#fichier-js)
-  - [Conclusion :](#conclusion-)
+    - [Nommage](#nommage)
+
 
 
 ## Utilisation
@@ -124,30 +83,6 @@ https://github.com/Thomas141203/GIT-Cheatsheet?tab=readme-ov-file#git-cheatsheet
 ```
 
 Cette liste n'est pas exhaustive, si besoin voir la doc github sur l'utilisation des commandes git
-
-## Bonne pratique en HTML
-
-### Indentation
-
-```html
-<div>
-    <p>Contenu</p>
-</div>
-```
-
-### Utilisation de guillemets double pas simple
-
-```html
-<img src="image.jpg" alt="Description de l'image">
-```
-
-### ID et classe
-
-```html
-<div class="classe">
-    <p id="id">Contenu principal</p>
-</div>
-```
 
 Pour que l'on se mette d'accord sur la convention de nommage de nos attributs et de nos classes, nous suivrons la notation CamelCase : 
 
