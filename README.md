@@ -24,7 +24,7 @@ Projet Tutoré
 
 ### Initialisation
 
-Cette première commande git permet de cloner un repository déjà créer ce qui va être notre cas pour ce projet : 
+Cette première commande git permet de cloner un repository déjà créé ce qui va être notre cas pour ce projet : 
 
 ```shell
 git clone https://github.com/TheC0rpsE/ProjetTutore
